@@ -1,0 +1,76 @@
+{
+  "samples:": [
+    {
+      "label": "Basic features",
+      "samples": [
+        { "id": "YiUpCT0klC6CL" },
+        { "id": "IHaPpjKCfObGU" },
+        { "id": "tvBDF8q1S0izd" },
+        { "id": "yY7PAnDdwPbi8" },
+        { "id": "cX75RqFfjkd4T" },
+        { "id": "1YVSuvWciLLEM" }
+      ]
+    },
+
+    {
+      "label": "Other built-in features",
+      "samples": [
+        { "id": "YDLN0twsvbTaH" },
+        { "id": "eKRqTTKLuGJQk" },
+        { "id": "4kpwa92gs2lyT" },
+        { "id": "3mBwVvECdIuhR" },
+        { "id": "veRUORDbXdl7I" },
+        { "id": "t3qSwJz4dGnAk" },
+        { "id": "txAPIO2A696cO" },
+        { "id": "0pdy0CcdptUuu" },
+        { "id": "95wpiAhm9mimY" },
+        { "id": "sasiZnb29lYnn" },
+        { "id": "3SRXt2Eom5GIh" },
+        { "id": "ClLkuI3xcE81D" },
+        { "id": "5RQRLXbmFilLC" },
+        { "id": "7iScj3avp3NJE" }
+      ]
+    },
+
+    {
+      "label": "Features from external plugins",
+      "samples": [
+        { "id": "pDkpfxPN4O0nr" },
+        { "id": "PD4jx3v7k73Xe" },
+        { "id": "EC6zRxSC77ZMk" },
+        { "id": "hnpkaGoxOVJqN" },
+        { "id": "KCZwTzhYrobDR" },
+        { "id": "Bs34Gsok4y4wy" },
+        { "id": "ZivSrFzYpBi0f" },
+        { "id": "yzSvcdiqxrv01" }
+      ]
+    },
+
+    {
+      "label": "Language Flavours:",
+      "samples": [
+        { "id": "OIK23f0OxE0NO" },
+        { "id": "XeattBtcjRw0l" },
+        { "id": "JJI20WnwqBc9Q" },
+        { "id": "umQhVci6fAfXD" },
+        { "id": "L8AU9MfaKYNns" }
+      ]
+    },
+
+    {
+      "label": "Ideas from Community:",
+      "samples": [
+        { "id": "pJFWsVPFvCFar" },
+        { "id": "q7OqCOkhHXNSZ" }
+      ]
+    },
+
+    {
+      "label": "Legacy examples:",
+      "samples": [
+        { "id": "6Vj8nQJHah2az" },
+        { "id": "EnUyodokzfXGm" }
+      ]
+    }
+  ]
+}
