@@ -33,7 +33,7 @@
     },
 
     {
-      "label": "Features from external plugins",
+      "label": "Features from official plugins",
       "samples": [
         { "id": "pDkpfxPN4O0nr" },
         { "id": "PD4jx3v7k73Xe" },
@@ -54,6 +54,13 @@
         { "id": "JJI20WnwqBc9Q" },
         { "id": "umQhVci6fAfXD" },
         { "id": "L8AU9MfaKYNns" }
+      ]
+    },
+
+    {
+      "label": "Learning & Tutorials:",
+      "samples": [
+        { "id": "ujUiA9fgaNyv0" }
       ]
     },
 
