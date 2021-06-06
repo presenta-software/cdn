@@ -1,5 +1,5 @@
 {
-    "type": "horizontalBar",
+    "type": "bar",
     "data": {
       "labels": ["a1", "a2", "a3"],
       "datasets": [
@@ -29,11 +29,9 @@
         "display": true
       },
       "scales": {
-        "yAxes": [
+        "y": [
           {
-            "ticks": {
               "beginAtZero": true
-            }
           }
         ]
       }
